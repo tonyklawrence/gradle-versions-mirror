@@ -1,0 +1,22 @@
+{
+  "version" : "9.9.0-20260908001849+0000",
+  "buildTime" : "20260908001849+0000",
+  "commitId" : "ceff72240f6184eaca4536ccf2b51d76ca6e2862",
+  "current" : false,
+  "snapshot" : true,
+  "nightly" : true,
+  "releaseNightly" : false,
+  "activeRc" : false,
+  "rcFor" : "",
+  "milestoneFor" : "",
+  "broken" : false,
+  "downloadUrl" : "https://services.gradle.org/distributions-snapshots/gradle-9.9.0-20260908001849+0000-bin.zip",
+  "checksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-9.9.0-20260908001849+0000-bin.zip.sha256",
+  "checksum" : "47147e06cc30d8fd4d18995a395eca01646efdf2c623fc707c721b1a5fb0c3c2",
+  "wrapperChecksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-9.9.0-20260908001849+0000-wrapper.jar.sha256",
+  "wrapperChecksum" : "238e777fcddd7e34f9708186085def2abd6e08e658505b38718d79d74c21abd5",
+  "releasedOrActiveRc" : false,
+  "publicationSlot" : "nightly",
+  "released" : false,
+  "final" : false
+}
