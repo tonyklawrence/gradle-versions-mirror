@@ -12,9 +12,9 @@ jobs:
       - name: Fetch
         run: |
           for e in all current milestone nightly release-candidate release-nightly; do
-            curl -sSf --retry 3 "https://services.gradle.org/versions/$e" -o "versions/$e.json.new"
-            python3 -c "import json,sys; json.load(open(sys.argv[1]))" "versions/$e.json.new"
-            mv "versions/$e.json.new" "versions/$e.json"
+            curl -sSf --retry 3 "https://services.gradle.org/versions/$e" -o "versions/$e.new"
+            python3 -c "import json,sys; json.load(open(sys.argv[1]))" "versions/$e.new"
+            mv "versions/$e.new" "versions/$e"
           done
       - name: Commit
         run: |

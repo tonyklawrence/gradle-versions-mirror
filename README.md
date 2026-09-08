@@ -5,16 +5,16 @@ Byte-identical hourly mirror of the endpoints under
 
 | Upstream | Here |
 |---|---|
-| `/versions/all` | `versions/all.json` |
-| `/versions/current` | `versions/current.json` |
-| `/versions/milestone` | `versions/milestone.json` |
-| `/versions/nightly` | `versions/nightly.json` |
-| `/versions/release-candidate` | `versions/release-candidate.json` |
-| `/versions/release-nightly` | `versions/release-nightly.json` |
+| `/versions/all` | `versions/all` |
+| `/versions/current` | `versions/current` |
+| `/versions/milestone` | `versions/milestone` |
+| `/versions/nightly` | `versions/nightly` |
+| `/versions/release-candidate` | `versions/release-candidate` |
+| `/versions/release-nightly` | `versions/release-nightly` |
 
 ```
-https://raw.githubusercontent.com/tonyklawrence/gradle-versions-mirror/main/versions/current.json
-https://cdn.jsdelivr.net/gh/tonyklawrence/gradle-versions-mirror@main/versions/current.json   # ~12h cache
+https://raw.githubusercontent.com/tonyklawrence/gradle-versions-mirror/main/versions/current
+https://cdn.jsdelivr.net/gh/tonyklawrence/gradle-versions-mirror@main/versions/current   # ~12h cache
 ```
 
 Files are copied verbatim, not reconstructed — `checksum`, `commitId`, `broken`
