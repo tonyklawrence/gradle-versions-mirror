@@ -15,8 +15,8 @@
   "checksum" : "988558592a6377d54d5730e7ee3032fcef421c4a40022d4d3605a6ac791b1087",
   "wrapperChecksumUrl" : "https://services.gradle.org/distributions/gradle-9.8.0-milestone-2-wrapper.jar.sha256",
   "wrapperChecksum" : "2b2e2cee3d8a8e5379b4f1c5902419404e83c1dba5ff55192ad5986e3f44cd6e",
+  "released" : true,
   "releasedOrActiveRc" : true,
   "publicationSlot" : "9.8.0-milestone-2",
-  "released" : true,
   "final" : false
 }
