@@ -15,8 +15,8 @@
   "checksum" : "6a968156d287c334c6fe8c521f65ae1b1610e3769cc65ed1677431d9fe341cd9",
   "wrapperChecksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-9.9.0-20261013004025+0000-wrapper.jar.sha256",
   "wrapperChecksum" : "3b8a25775a69158b5ad2b1d17a80a88dc7b40a352a73eb27d06c612a7ce68e98",
+  "released" : false,
   "releasedOrActiveRc" : false,
   "publicationSlot" : "nightly",
-  "released" : false,
   "final" : false
 }
